@@ -1,13 +1,11 @@
 # Projeto-DSMovie
 
-  dsmeta iniciante
-
-
-Crie um app completo
-
+Semana Spring React por Devsuperior
 https://github.com/devsuperior/sds-dsmovie#readme
 
-Semana Spring React por Devsuperior
+  dsmeta iniciante
+
+Crie um app completo
 
 JDK 11 ou 17
 STS
