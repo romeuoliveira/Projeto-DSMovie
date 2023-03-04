@@ -6,16 +6,9 @@ https://github.com/devsuperior/sds-dsmovie#readme
 
   dsmeta iniciante
 
-Crie um app completo
+Crie um app completo com:
 
-- JDK 11 ou 17
-- STS
-- Postman
-- Postgresql 12 e pgAdmin
-- Heroku CLI
-- NodeJS 16.x (https://nodejs.org/en/download/)
-- VS Code
-- Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" />
 
 
 https://romeuoliveira.github.io/Projeto-DSMovie/
