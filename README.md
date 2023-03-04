@@ -7,11 +7,11 @@ https://github.com/devsuperior/sds-dsmovie#readme
 
 Crie um app completo
 
-JDK 11 ou 17
-STS
-Postman
-Postgresql 12 e pgAdmin
-Heroku CLI
-NodeJS 16.x (https://nodejs.org/en/download/)
-VS Code
-Git
+- JDK 11 ou 17
+- STS
+- Postman
+- Postgresql 12 e pgAdmin
+- Heroku CLI
+- NodeJS 16.x (https://nodejs.org/en/download/)
+- VS Code
+- Git
